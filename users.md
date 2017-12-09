@@ -508,3 +508,8 @@
   Bio: Sophomore   
   GitHub: [Alastair7](https://github.com/Alastair7)  
   
+- Name: Shrikriti Singh  
+  Place: Bhubaneswar, India  
+  Bio: Web Developer  
+  Github: [shrikriti5singh](https://github.com/shrikriti5singh)  
+    
